@@ -1,0 +1,102 @@
+Chennai
+HOSPITAL HAS RATING > 3- Gleneagles Global Health City
+HOSPITAL HAS RATING > 3- Bharathirajaa Hospital
+HOSPITAL HAS RATING > 3- Parvathy Ortho Hospital
+HOSPITAL HAS RATING > 3- Sakthi Hospital & Research Center
+HOSPITAL HAS RATING > 3- New Hope Medical Centre
+HOSPITAL HAS RATING > 3- Apollo Hospital
+HOSPITAL HAS RATING > 3- Hera Hospital
+HOSPITAL HAS RATING > 3- Dr. Kamakshi Memorial Hospital
+HOSPITAL HAS RATING > 3- Xcellent Care Hospital
+HOSPITAL HAS RATING > 3- Pallavaram Children Medical CentrePune
+HOSPITAL HAS RATING > 3- Saishree Hospital
+HOSPITAL HAS RATING > 3- IMax Multispeciality Hospital
+HOSPITAL HAS RATING > 3- Umarji Mother & Child Care
+HOSPITAL HAS RATING > 3- Ranka Multispeciality Hospital
+HOSPITAL HAS RATING > 3- Noble Hospital
+HOSPITAL HAS RATING > 3- Bhakare Super Speciality Hospital and Research Institute
+HOSPITAL HAS RATING > 3- Dr. More Children's Hospital
+HOSPITAL HAS RATING > 3- KK Multispeciality Hospital
+HOSPITAL HAS RATING > 3- Jupiter HospitalMumbai
+HOSPITAL HAS RATING > 3- Dr L H Hiranandani Hospital
+HOSPITAL HAS RATING > 3- Pooja Maternity Nursing Home & Ent Center
+HOSPITAL HAS RATING > 3- Surya Hospitals
+HOSPITAL HAS RATING > 3- SevenHills Hospital
+HOSPITAL HAS RATING > 3- Godrej Memorial Hospital
+HOSPITAL HAS RATING > 3- Sushrut Hospital and Research Center
+HOSPITAL HAS RATING > 3- Parakh HospitalChennai
+HOSPITAL HAS RATING > 3- Gleneagles Global Health City
+HOSPITAL HAS RATING > 3- Bharathirajaa Hospital
+HOSPITAL HAS RATING > 3- Parvathy Ortho Hospital
+HOSPITAL HAS RATING > 3- Sakthi Hospital & Research Center
+HOSPITAL HAS RATING > 3- New Hope Medical Centre
+HOSPITAL HAS RATING > 3- Apollo Hospital
+HOSPITAL HAS RATING > 3- Hera Hospital
+HOSPITAL HAS RATING > 3- Dr. Kamakshi Memorial Hospital
+HOSPITAL HAS RATING > 3- Xcellent Care Hospital
+HOSPITAL HAS RATING > 3- Pallavaram Children Medical CentrePune
+HOSPITAL HAS RATING > 3- Saishree Hospital
+HOSPITAL HAS RATING > 3- IMax Multispeciality Hospital
+HOSPITAL HAS RATING > 3- Umarji Mother & Child Care
+HOSPITAL HAS RATING > 3- Ranka Multispeciality Hospital
+HOSPITAL HAS RATING > 3- Noble Hospital
+HOSPITAL HAS RATING > 3- Bhakare Super Speciality Hospital and Research Institute
+HOSPITAL HAS RATING > 3- Dr. More Children's Hospital
+HOSPITAL HAS RATING > 3- KK Multispeciality Hospital
+HOSPITAL HAS RATING > 3- Jupiter HospitalMumbai
+HOSPITAL HAS RATING > 3- Dr L H Hiranandani Hospital
+HOSPITAL HAS RATING > 3- Pooja Maternity Nursing Home & Ent Center
+HOSPITAL HAS RATING > 3- Surya Hospitals
+HOSPITAL HAS RATING > 3- SevenHills Hospital
+HOSPITAL HAS RATING > 3- Godrej Memorial Hospital
+HOSPITAL HAS RATING > 3- Sushrut Hospital and Research Center
+HOSPITAL HAS RATING > 3- Parakh Hospital
+ChennaiHOSPITAL HAS RATING > 3- Gleneagles Global Health City
+ChennaiHOSPITAL HAS RATING > 3- Bharathirajaa Hospital
+ChennaiHOSPITAL HAS RATING > 3- Parvathy Ortho Hospital
+ChennaiHOSPITAL HAS RATING > 3- Sakthi Hospital & Research Center
+ChennaiHOSPITAL HAS RATING > 3- New Hope Medical Centre
+ChennaiHOSPITAL HAS RATING > 3- Apollo Hospital
+ChennaiHOSPITAL HAS RATING > 3- Hera Hospital
+ChennaiHOSPITAL HAS RATING > 3- Dr. Kamakshi Memorial Hospital
+ChennaiHOSPITAL HAS RATING > 3- Xcellent Care Hospital
+ChennaiHOSPITAL HAS RATING > 3- Pallavaram Children Medical Centre
+PuneHOSPITAL HAS RATING > 3- Saishree Hospital
+PuneHOSPITAL HAS RATING > 3- IMax Multispeciality Hospital
+PuneHOSPITAL HAS RATING > 3- Umarji Mother & Child Care
+PuneHOSPITAL HAS RATING > 3- Ranka Multispeciality Hospital
+PuneHOSPITAL HAS RATING > 3- Noble Hospital
+PuneHOSPITAL HAS RATING > 3- Bhakare Super Speciality Hospital and Research Institute
+PuneHOSPITAL HAS RATING > 3- Dr. More Children's Hospital
+PuneHOSPITAL HAS RATING > 3- KK Multispeciality Hospital
+PuneHOSPITAL HAS RATING > 3- Jupiter Hospital
+MumbaiHOSPITAL HAS RATING > 3- Dr L H Hiranandani Hospital
+MumbaiHOSPITAL HAS RATING > 3- Pooja Maternity Nursing Home & Ent Center
+MumbaiHOSPITAL HAS RATING > 3- Surya Hospitals
+MumbaiHOSPITAL HAS RATING > 3- SevenHills Hospital
+MumbaiHOSPITAL HAS RATING > 3- Godrej Memorial Hospital
+MumbaiHOSPITAL HAS RATING > 3- Sushrut Hospital and Research Center
+MumbaiHOSPITAL HAS RATING > 3- Parakh HospitalChennai
+HOSPITAL HAS RATING > 3- Dr L H Hiranandani HospitalChennai
+HOSPITAL HAS RATING > 3- Pooja Maternity Nursing Home & Ent CenterChennai
+HOSPITAL HAS RATING > 3- Surya HospitalsChennai
+HOSPITAL HAS RATING > 3- SevenHills HospitalChennai
+HOSPITAL HAS RATING > 3- Godrej Memorial HospitalChennai
+HOSPITAL HAS RATING > 3- Sushrut Hospital and Research CenterChennai
+HOSPITAL HAS RATING > 3- Parakh HospitalPune
+HOSPITAL HAS RATING > 3- Saishree HospitalPune
+HOSPITAL HAS RATING > 3- IMax Multispeciality HospitalPune
+HOSPITAL HAS RATING > 3- Umarji Mother & Child CarePune
+HOSPITAL HAS RATING > 3- Ranka Multispeciality HospitalPune
+HOSPITAL HAS RATING > 3- Noble HospitalPune
+HOSPITAL HAS RATING > 3- Bhakare Super Speciality Hospital and Research InstitutePune
+HOSPITAL HAS RATING > 3- Dr. More Children's HospitalPune
+HOSPITAL HAS RATING > 3- KK Multispeciality HospitalPune
+HOSPITAL HAS RATING > 3- Jupiter HospitalPuneMumbai
+HOSPITAL HAS RATING > 3- Dr L H Hiranandani HospitalMumbai
+HOSPITAL HAS RATING > 3- Pooja Maternity Nursing Home & Ent CenterMumbai
+HOSPITAL HAS RATING > 3- Surya HospitalsMumbai
+HOSPITAL HAS RATING > 3- SevenHills HospitalMumbai
+HOSPITAL HAS RATING > 3- Godrej Memorial HospitalMumbai
+HOSPITAL HAS RATING > 3- Sushrut Hospital and Research CenterMumbai
+HOSPITAL HAS RATING > 3- Parakh Hospital
